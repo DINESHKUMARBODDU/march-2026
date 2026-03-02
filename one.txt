@@ -3,4 +3,6 @@ Artifical Intelligence
 hyderabad
 bengaluru
 
-[1]+ stopped  cat > one.txt
+
+Hyderabda,Delhi,Pune
+
