@@ -1,0 +1,6 @@
+machine Learning
+Artifical Intelligence
+hyderabad
+bengaluru
+
+[1]+ stopped  cat > one.txt
